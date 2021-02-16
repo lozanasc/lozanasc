@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋 </h3>
+<h1 align="center"> Hi there 👋 </h1>
 <hr>
 <h3 align="center"> Work in Progress ⚠️👷 </h3>
 <hr>
